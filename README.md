@@ -3,19 +3,26 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
-	* let
-	* const
-	* ES6 Classes
-	* import/export
-	* JSX
-	* this.props
 
+	* `let`
+		- declaring a variable with `let` establishes a variable which can be changed
+	* `const`
+		- declaring a variable with `const` establishes a variable which can NOT be changed
+	* ES6 Classes
+		- ES6 classes are containers for other objects, including constructors
+	* `import`/`export`
+		- how components are accessed and made accessible across files and project directories
+	* JSX
+		- HTML syntax within JavaScript/ECMAScript
+	* `this.props`
+		- arbitrary inputs for components
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
-		
+
 	* Run: `npm install -g create-react-app`
+		* Done√
 	* Create a boilerplate React app called Profile. `create-react-app profile`
+		* Done √
 	* Navigate into /profile and run the command: `npm start`
 	* Your `<App />` component will render a `<NavBar />` and a `<Body />` component.
 	* Create a file called `NavBar.js` and a file called `Body.js`
