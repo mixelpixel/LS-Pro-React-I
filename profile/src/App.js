@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 // import logo from './logo.svg';
 // import './App.css';
 import NavBar from './NavBar'
+import Snoopy from './SnoopyPuppy.gif'
 
 class App extends Component {
   render() {
@@ -18,6 +19,7 @@ class App extends Component {
       <div>
         <NavBar />
         Hello World
+        <img src={Snoopy} alt="missing" />
       </div>
     );
   }
