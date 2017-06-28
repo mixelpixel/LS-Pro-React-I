@@ -30,10 +30,13 @@
 	* Create a file called `NavBar.js` and a file called `Body.js`
 		* Done √
 	* `<NavBar />` and `<Body />` will both be React components.  `<NavBar />` should display the title of your page in a larger font.
+		* Done √
 	* `<Body />` will display some information about yourself.
+		* Done √
 	* Try adding an image, some text, and some links to your github profile.
+		* Done √
 	* For the content in `<Body />` try to break things down into their own components as much as you can.  The purpose of this exercise is to practice creating basic components.  You should be very comfortable with the basic syntax of creating React components before the next lesson.
-
+		* Done √
 
 
 #### Congratulations on finishing Homework #1!
