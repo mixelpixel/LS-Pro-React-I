@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 // import logo from './logo.svg';
 // import './App.css';
 import NavBar from './NavBar'
-import Snoopy from './SnoopyPuppy.gif'
+import Body from './Body'
 
 class App extends Component {
   render() {
@@ -18,8 +18,7 @@ class App extends Component {
       // </div>
       <div>
         <NavBar />
-        Hello World
-        <img src={Snoopy} alt="missing" />
+        <Body />
       </div>
     );
   }
