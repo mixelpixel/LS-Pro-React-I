@@ -20,12 +20,15 @@
 2. Fork and clone this repo.  When you need to commit use the following commands.
 
 	* Run: `npm install -g create-react-app`
-		* Done√
+		* Done √
 	* Create a boilerplate React app called Profile. `create-react-app profile`
 		* Done √
 	* Navigate into /profile and run the command: `npm start`
+		* Done √
 	* Your `<App />` component will render a `<NavBar />` and a `<Body />` component.
+		* Done √
 	* Create a file called `NavBar.js` and a file called `Body.js`
+		* Done √
 	* `<NavBar />` and `<Body />` will both be React components.  `<NavBar />` should display the title of your page in a larger font.
 	* `<Body />` will display some information about yourself.
 	* Try adding an image, some text, and some links to your github profile.
